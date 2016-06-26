@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "PHPUGMRN 01/16",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
