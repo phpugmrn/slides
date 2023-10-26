@@ -1,5 +1,5 @@
 {
-  "name": "23",
+  "name": "phpugmrn",
   "private": true,
   "scripts": {
     "build": "slidev build",
